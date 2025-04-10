@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://cvebu66cimjwi"]
+
+[ext_resource type="Script" uid="uid://bwvwcsq1x8hnb" path="res://resources/upgrades/hability_upgrade.gd" id="1_r6y60"]
+
+[resource]
+script = ExtResource("1_r6y60")
+id = "pick_rate"
+name = "pickaxeQuickness"
+description = "Increases pickaxe attack rate by 10%."
