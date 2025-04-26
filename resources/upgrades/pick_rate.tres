@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=2 format=3 uid="uid://cvebu66cimjwi"]
 
-[ext_resource type="Script" uid="uid://bwvwcsq1x8hnb" path="res://resources/upgrades/hability_upgrade.gd" id="1_r6y60"]
+[ext_resource type="Script" uid="uid://bwvwcsq1x8hnb" path="res://resources/upgrades/ability_upgrade.gd" id="1_r6y60"]
 
 [resource]
 script = ExtResource("1_r6y60")

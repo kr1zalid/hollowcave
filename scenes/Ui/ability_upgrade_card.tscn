@@ -12,12 +12,15 @@ layout_mode = 2
 [node name="NameLabel" type="Label" parent="VBoxContainer"]
 unique_name_in_owner = true
 layout_mode = 2
-text = "Test name"
+text = "text name
+"
+visible_characters = 0
+visible_ratio = 0.0
 
 [node name="DescriptionLabel" type="Label" parent="VBoxContainer"]
 unique_name_in_owner = true
-custom_minimum_size = Vector2(10, 0)
+custom_minimum_size = Vector2(1, 0)
 layout_mode = 2
-text = "write some description here as you write a long description
-"
+text = "Write some escription here as you a long descripition"
 autowrap_mode = 2
+structured_text_bidi_override_options = [null]

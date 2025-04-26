@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="AbilityUpgrade" load_steps=2 format=3 uid="uid://cpauul4qubvay"]
+
+[ext_resource type="Script" uid="uid://bwvwcsq1x8hnb" path="res://resources/upgrades/ability_upgrade.gd" id="1_bf8ky"]
+
+[resource]
+script = ExtResource("1_bf8ky")
+id = "1"
+name = "pickaxe"
+description = "isso é uma picareta"
+metadata/_custom_type_script = "uid://bwvwcsq1x8hnb"
